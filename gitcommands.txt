@@ -1,6 +1,15 @@
-git add filename(s)
+git add filename(s // for adding files)
 git add .
 
 git commit -m "comment"
 git push -u origin master
+git checkout <branch_name>//
+git status //to view status of the file in git//
 
+
+
+//VI EDITOR COMMANDS//
+
+ vi filename //for opening file//
+ press i and edit the file
+ esc+:wq for saving & quitting the file
